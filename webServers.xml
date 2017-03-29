@@ -1,10 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="07044245-c3c7-46fd-a8b2-4f505662bdfa" name="MH13" url="http://mh13.com">
+      <webServer id="5814f202-130d-4daf-aa1b-6f38793fc11e" name="MH13" url="http://mh13.miralba.org">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="190366e6-71ca-4574-b709-cf777acc5b2e" name="Milhojas" url="http://www.milhojas.com">
+      <webServer id="f368110d-f169-4337-875e-00e84adc7a0b" name="DevMilhojas" url="http://dev.miralba.org">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>

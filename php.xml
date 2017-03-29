@@ -1,4 +1,10 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration />
+    </phpmd_settings>
+  </component>
+  <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
@@ -6,14 +12,14 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/php5-5.6.14-20151002-085853/bin/php" id="82ac77ab-b44b-473c-8efa-cc53cbac4368" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/php5-5.6.27-20161101-100213/bin/php" id="5a4b8189-17e0-4ebe-b620-25f90d90f7b3" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/php5-5.6.14-20151002-085853/bin/php-cgi" php_cli="/usr/local/php5-5.6.14-20151002-085853/bin/php" path_separator=":" version="5.6.14">
-          <additional_php_ini>/usr/local/php5/php.d/10-extension_dir.ini, /usr/local/php5/php.d/20-extension-opcache.ini, /usr/local/php5/php.d/50-extension-apcu.ini, /usr/local/php5/php.d/50-extension-curl.ini, /usr/local/php5/php.d/50-extension-gmp.ini, /usr/local/php5/php.d/50-extension-igbinary.ini, /usr/local/php5/php.d/50-extension-imap.ini, /usr/local/php5/php.d/50-extension-intl.ini, /usr/local/php5/php.d/50-extension-mcrypt.ini, /usr/local/php5/php.d/50-extension-memcache.ini, /usr/local/php5/php.d/50-extension-memcached.ini, /usr/local/php5/php.d/50-extension-mongo.ini, /usr/local/php5/php.d/50-extension-mssql.ini, /usr/local/php5/php.d/50-extension-oauth.ini, /usr/local/php5/php.d/50-extension-pdo_dblib.ini, /usr/local/php5/php.d/50-extension-pdo_pgsql.ini, /usr/local/php5/php.d/50-extension-pgsql.ini, /usr/local/php5/php.d/50-extension-propro.ini, /usr/local/php5/php.d/50-extension-raphf.ini, /usr/local/php5/php.d/50-extension-readline.ini, /usr/local/php5/php.d/50-extension-redis.ini, /usr/local/php5/php.d/50-extension-solr.ini, /usr/local/php5/php.d/50-extension-ssh2.ini, /usr/local/php5/php.d/50-extension-twig.ini, /usr/local/php5/php.d/50-extension-uploadprogress.ini, /usr/local/php5/php.d/50-extension-xdebug.ini, /usr/local/php5/php.d/50-extension-xhprof.ini, /usr/local/php5/php.d/50-extension-xsl.ini, /usr/local/php5/php.d/60-extension-pecl_http.ini, /usr/local/php5/php.d/99-liip-developer.ini</additional_php_ini>
+      <interpreter name="PHP 5.6">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/php5-5.6.27-20161101-100213/bin/php-cgi" php_cli="/usr/local/php5-5.6.27-20161101-100213/bin/php" path_separator=":" version="5.6.27">
+          <additional_php_ini>/usr/local/php5/php.d/10-extension_dir.ini, /usr/local/php5/php.d/20-extension-opcache.ini, /usr/local/php5/php.d/40-openssl.ini, /usr/local/php5/php.d/50-extension-apcu.ini, /usr/local/php5/php.d/50-extension-curl.ini, /usr/local/php5/php.d/50-extension-gmp.ini, /usr/local/php5/php.d/50-extension-igbinary.ini, /usr/local/php5/php.d/50-extension-imap.ini, /usr/local/php5/php.d/50-extension-intl.ini, /usr/local/php5/php.d/50-extension-mcrypt.ini, /usr/local/php5/php.d/50-extension-memcache.ini, /usr/local/php5/php.d/50-extension-memcached.ini, /usr/local/php5/php.d/50-extension-mongo.ini, /usr/local/php5/php.d/50-extension-mssql.ini, /usr/local/php5/php.d/50-extension-oauth.ini, /usr/local/php5/php.d/50-extension-pdo_dblib.ini, /usr/local/php5/php.d/50-extension-pdo_pgsql.ini, /usr/local/php5/php.d/50-extension-pgsql.ini, /usr/local/php5/php.d/50-extension-propro.ini, /usr/local/php5/php.d/50-extension-raphf.ini, /usr/local/php5/php.d/50-extension-readline.ini, /usr/local/php5/php.d/50-extension-redis.ini, /usr/local/php5/php.d/50-extension-solr.ini, /usr/local/php5/php.d/50-extension-ssh2.ini, /usr/local/php5/php.d/50-extension-twig.ini, /usr/local/php5/php.d/50-extension-uploadprogress.ini, /usr/local/php5/php.d/50-extension-xdebug.ini, /usr/local/php5/php.d/50-extension-xhprof.ini, /usr/local/php5/php.d/50-extension-xsl.ini, /usr/local/php5/php.d/60-extension-pecl_http.ini, /usr/local/php5/php.d/99-liip-developer.ini</additional_php_ini>
           <configuration_file>/usr/local/php5/lib/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -56,9 +62,9 @@
             <configuration_option name="browscap" value="" />
             <configuration_option name="cli.pager" value="" />
             <configuration_option name="cli.prompt" value="\b \&gt; " />
-            <configuration_option name="curl.cainfo" value="" />
-            <configuration_option name="date.default_latitude" value="31.7667" />
-            <configuration_option name="date.default_longitude" value="35.2333" />
+            <configuration_option name="curl.cainfo" value="/etc/cacert.pem" />
+            <configuration_option name="date.default_latitude" value="42.21" />
+            <configuration_option name="date.default_longitude" value="8.81" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
             <configuration_option name="date.timezone" value="Europe/Madrid" />
@@ -75,7 +81,7 @@
             <configuration_option name="enable_dl" value="" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
-            <configuration_option name="error_log" value="" />
+            <configuration_option name="error_log" value="/var/log/apache2/php_errors.log" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
@@ -166,7 +172,7 @@
             <configuration_option name="memcached.sess_sasl_username" value="" />
             <configuration_option name="memcached.store_retry_count" value="2" />
             <configuration_option name="memcached.use_sasl" value="0" />
-            <configuration_option name="memory_limit" value="-1" />
+            <configuration_option name="memory_limit" value="2G" />
             <configuration_option name="mongo.allow_empty_keys" value="0" />
             <configuration_option name="mongo.chunk_size" value="261120" />
             <configuration_option name="mongo.cmd" value="$" />
@@ -198,7 +204,7 @@
             <configuration_option name="mysql.default_host" value="" />
             <configuration_option name="mysql.default_password" value="" />
             <configuration_option name="mysql.default_port" value="" />
-            <configuration_option name="mysql.default_socket" value="" />
+            <configuration_option name="mysql.default_socket" value="/tmp/mysql.sock" />
             <configuration_option name="mysql.default_user" value="" />
             <configuration_option name="mysql.max_links" value="-1" />
             <configuration_option name="mysql.max_persistent" value="-1" />
@@ -243,7 +249,7 @@
             <configuration_option name="opcache.max_file_size" value="0" />
             <configuration_option name="opcache.max_wasted_percentage" value="5" />
             <configuration_option name="opcache.memory_consumption" value="64" />
-            <configuration_option name="opcache.optimization_level" value="0xFFFFFFFF" />
+            <configuration_option name="opcache.optimization_level" value="0x7FFFBFFF" />
             <configuration_option name="opcache.preferred_memory_model" value="" />
             <configuration_option name="opcache.protect_memory" value="0" />
             <configuration_option name="opcache.restrict_api" value="" />
@@ -253,7 +259,7 @@
             <configuration_option name="opcache.use_cwd" value="1" />
             <configuration_option name="opcache.validate_timestamps" value="1" />
             <configuration_option name="open_basedir" value="" />
-            <configuration_option name="openssl.cafile" value="" />
+            <configuration_option name="openssl.cafile" value="/usr/local/php5/ssl/certs/cacert.pem" />
             <configuration_option name="openssl.capath" value="" />
             <configuration_option name="output_buffering" value="0" />
             <configuration_option name="output_encoding" value="" />
@@ -299,7 +305,7 @@
             <configuration_option name="session.entropy_file" value="/dev/urandom" />
             <configuration_option name="session.entropy_length" value="32" />
             <configuration_option name="session.gc_divisor" value="1000" />
-            <configuration_option name="session.gc_maxlifetime" value="1440" />
+            <configuration_option name="session.gc_maxlifetime" value="14400" />
             <configuration_option name="session.gc_probability" value="1" />
             <configuration_option name="session.hash_bits_per_character" value="5" />
             <configuration_option name="session.hash_function" value="0" />
@@ -494,8 +500,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
