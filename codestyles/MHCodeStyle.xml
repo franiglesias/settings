@@ -1,5 +1,6 @@
 <code_scheme name="MHCodeStyle">
   <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="CONCAT_SPACES" value="false" />
@@ -11,9 +12,11 @@
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
