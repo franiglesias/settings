@@ -373,16 +373,16 @@
             <configuration_option name="xdebug.overload_var_dump" value="1" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="1" />
             <configuration_option name="xdebug.profiler_enable_trigger" value="1" />
-            <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
+            <configuration_option name="xdebug.profiler_output_dir" value="&lt;AMP home\tmp&gt;" />
             <configuration_option name="xdebug.profiler_output_name" value="xdebug-profile-cachegrind.out-%H-%R" />
             <configuration_option name="xdebug.remote_autostart" value="" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_host" value="www.mh13.com" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
