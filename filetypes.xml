@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ctp" type="HTML" />
       <mapping pattern="error" type="PLAIN_TEXT" />
+      <mapping pattern=".mh-vertical-navigation-lists.scss" type="SCSS" />
     </extensionMap>
   </component>
 </application>
