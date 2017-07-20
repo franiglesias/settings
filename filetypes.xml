@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="ctp" type="HTML" />
+      <mapping pattern="error" type="PLAIN_TEXT" />
+      <mapping pattern="_mh-articles" type="SCSS" />
+      <mapping pattern=".mh-vertical-navigation-lists.scss" type="SCSS" />
+    </extensionMap>
+  </component>
+</application>
