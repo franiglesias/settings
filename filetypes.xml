@@ -3,8 +3,10 @@
     <extensionMap>
       <mapping ext="ctp" type="HTML" />
       <mapping pattern="2016-12-22-el-visitante.md" type="Markdown" />
+      <mapping pattern="2017-03-07-historia-de-una-reescritura-3-empezar-con-la-vista.md" type="Markdown" />
       <mapping pattern="2016-12-22-el-visitante" type="Markdown" />
       <mapping pattern="here-your-unit-tests" type="PLAIN_TEXT" />
+      <mapping pattern="2017-03-12-historia-de-una-reescritura-4-codigo-toxico" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping pattern=".mh-vertical-navigation-lists.scss" type="SCSS" />
       <mapping pattern="_mh-articles" type="SCSS" />
