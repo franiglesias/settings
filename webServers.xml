@@ -10,6 +10,9 @@
       <webServer id="b17d1711-a5fb-4ca8-881e-9a3ed239c24a" name="Localhost" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="92304ba9-f2f0-453d-a821-44af5b8ecafc" name="holaluz" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
