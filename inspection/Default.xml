@@ -68,6 +68,7 @@
   <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="CODING_STANDARD" value="PSR2" />
   </inspection_tool>
+  <inspection_tool class="PhpUnusedAliasInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="optionConfiguration">
       <list>
