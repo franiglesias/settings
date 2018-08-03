@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>

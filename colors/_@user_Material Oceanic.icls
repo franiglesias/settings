@@ -4,7 +4,7 @@
     <property name="created">2018-03-09T15:20:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-05-25T00:09:12</property>
+    <property name="modified">2018-07-27T09:32:14</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -54,7 +54,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="263238" />
+    <option name="GUTTER_BACKGROUND" value="1b2529" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="263238" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
@@ -68,7 +68,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="1a3860" />
+    <option name="SELECTION_BACKGROUND" value="1c4f84" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
@@ -1231,7 +1231,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b484e" />
+        <option name="BACKGROUND" value="41484e" />
         <option name="EFFECT_COLOR" value="32424a" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
         <option name="EFFECT_TYPE" value="2" />

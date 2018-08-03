@@ -48,6 +48,16 @@
           </record-format>
         </header>
       </csv-format>
+      <csv-format name="Comma-separated-delim (CSV)" id="ff1442ae-251c-44ed-946b-bc87a27c0203">
+        <data>
+          <record-format prefix="" suffix="" nullText="&quot;&quot;" quotationPolicy="always" valueSeparator=";" recordSeparator="&#10;" trimWhitespace="true">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
     </csv-formats>
   </component>
 </application>

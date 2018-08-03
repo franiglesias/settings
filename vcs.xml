@@ -62,8 +62,24 @@
           <option name="url" value="https://github.com/franiglesias/legacy-testing-kata.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/franiglesias/messaging.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MadameSheema/workshop-cucumber" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/holaluz/macGyver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/holaluz/bonasera.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Sites" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code/holaluz" />
   </component>
 </application>
