@@ -1,12 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.7.0" />
+    <option name="version" value="2.2.0.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
-    <option name="userId" value="-71d2a0be:164f94939b9:-7fff" />
-    <option name="isHighContrast" value="true" />
   </component>
 </application>
