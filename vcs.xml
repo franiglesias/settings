@@ -79,11 +79,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/pkristian/mishell.sh.git" />
+          <option name="url" value="https://github.com/franiglesias/versiontag.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Sites" />
+    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
   </component>
 </application>
