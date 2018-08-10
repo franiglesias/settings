@@ -28,5 +28,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="Development Core" uuid="628f4385-54c5-4dd7-a372-9e36ee849857">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://core-pgsql:5432/core</jdbc-url>
+    </data-source>
   </component>
 </application>
