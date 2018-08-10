@@ -13,8 +13,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="ssh://vagrant@localhost:2222/usr/bin/php" id="87bcaa25-be5b-440f-b379-2d6027bbf3bd" name="Remote PHP vagrant" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="localhost" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="ssh://vagrant@127.0.0.1:2222/usr/bin/php" id="87bcaa25-be5b-440f-b379-2d6027bbf3bd" name="Remote PHP vagrant" debugger_id="php.debugger.XDebug">
+        <remote_data HOST="127.0.0.1" PORT="2222" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
