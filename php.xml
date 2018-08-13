@@ -424,7 +424,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="87bcaa25-be5b-440f-b379-2d6027bbf3bd" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/holaluz/laravel/phpunit.xml" custom_loader_path="/var/www/holaluz/laravel/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="87bcaa25-be5b-440f-b379-2d6027bbf3bd" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/holaluz/core/phpunit.xml" custom_loader_path="/var/www/holaluz/core/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
