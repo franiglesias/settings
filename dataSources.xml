@@ -34,5 +34,23 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://core-pgsql:5432/core</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Production Core" read-only="true" uuid="c9e64d82-1cc2-4e38-a091-7283ea60a45e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://php-pgsql-prod.cwz1cjr9q1ty.eu-west-1.rds.amazonaws.com:5432/core</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Test Local Core" uuid="083a003f-5ba4-46ba-be08-ba96e64c0167">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://core-pgsql:5432/core-test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Staging Test Core" uuid="193e0329-8133-4a87-a237-1939c9f28e2f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://php-pgsql-test.cwz1cjr9q1ty.eu-west-1.rds.amazonaws.com:5432/core</jdbc-url>
+    </data-source>
   </component>
 </application>
