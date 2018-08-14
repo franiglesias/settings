@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Development Holaluz DB" uuid="6b14db16-e416-4f08-b3e0-33484e1e002e">
+    <data-source source="LOCAL" name="Development Holaluz DB" group="Development" uuid="6b14db16-e416-4f08-b3e0-33484e1e002e">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -14,7 +14,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="Production Holaluz DB" read-only="true" uuid="aa208b23-0dbc-4ac2-bb3e-ad4f971846b5">
+    <data-source source="LOCAL" name="Production Holaluz DB" read-only="true" group="Production" uuid="aa208b23-0dbc-4ac2-bb3e-ad4f971846b5">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -28,19 +28,19 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="Development Core" uuid="628f4385-54c5-4dd7-a372-9e36ee849857">
+    <data-source source="LOCAL" name="Development Core" group="Development" uuid="628f4385-54c5-4dd7-a372-9e36ee849857">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://core-pgsql:5432/core</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="Production Core" read-only="true" uuid="c9e64d82-1cc2-4e38-a091-7283ea60a45e">
+    <data-source source="LOCAL" name="Production Core" read-only="true" group="Production" uuid="c9e64d82-1cc2-4e38-a091-7283ea60a45e">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://php-pgsql-prod.cwz1cjr9q1ty.eu-west-1.rds.amazonaws.com:5432/core</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="Test Local Core" uuid="083a003f-5ba4-46ba-be08-ba96e64c0167">
+    <data-source source="LOCAL" name="Test Local Core" group="Local" uuid="083a003f-5ba4-46ba-be08-ba96e64c0167">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
