@@ -11,6 +11,7 @@
       <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping pattern="expected" type="PLAIN_TEXT" />
       <mapping pattern="here-your-unit-tests" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping pattern="_mh-articles" type="SCSS" />
       <mapping pattern=".mh-vertical-navigation-lists.scss" type="SCSS" />
