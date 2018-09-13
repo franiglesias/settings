@@ -15,6 +15,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping pattern="_mh-articles" type="SCSS" />
       <mapping pattern=".mh-vertical-navigation-lists.scss" type="SCSS" />
+      <mapping pattern="orwell-test-invoice" type="XHTML" />
     </extensionMap>
   </component>
 </application>
