@@ -20,5 +20,6 @@
     <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
