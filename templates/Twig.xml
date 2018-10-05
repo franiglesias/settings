@@ -1,0 +1,7 @@
+<templateSet group="Twig">
+  <template name="trans" value="{{ '$SELECTION$' | trans }}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
