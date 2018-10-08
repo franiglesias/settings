@@ -17,6 +17,7 @@
       <mapping pattern="_mh-articles" type="SCSS" />
       <mapping pattern=".mh-vertical-navigation-lists.scss" type="SCSS" />
       <mapping pattern="orwell-test-invoice" type="XHTML" />
+      <mapping pattern="phpspec.yml" type="YAML" />
     </extensionMap>
   </component>
 </application>
