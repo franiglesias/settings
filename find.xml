@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,10 +17,10 @@
     <mask>.yml</mask>
     <mask>routing.yml</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
     <mask>*Test.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
