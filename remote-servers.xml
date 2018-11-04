@@ -5,7 +5,12 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
         <option name="pathMappings">
-          <list />
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="/srv" />
+              <option name="virtualMachinePath" value="/var/www" />
+            </DockerPathMappingImpl>
+          </list>
         </option>
       </configuration>
     </remote-server>
