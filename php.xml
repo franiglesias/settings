@@ -14,9 +14,4 @@
   <component name="PhpSmartKeysConfiguration">
     <option name="smartFunctionParametersCompletion" value="true" />
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="87bcaa25-be5b-440f-b379-2d6027bbf3bd" load_method="CUSTOM_LOADER" custom_loader_path="/var/www/holaluz/core/vendor/autoload.php" phpunit_phar_path="" />
-    </phpunit_settings>
-  </component>
 </application>
