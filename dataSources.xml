@@ -18,7 +18,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://core-pgsql:5432/core</jdbc-url>
+      <jdbc-url>jdbc:postgresql://0.0.0.0:5432/core</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="Production Core" read-only="true" group="Production" uuid="c9e64d82-1cc2-4e38-a091-7283ea60a45e">
       <driver-ref>postgresql</driver-ref>
@@ -42,7 +42,7 @@
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://lumo.holaluz.local:3306/holaluz</jdbc-url>
+      <jdbc-url>jdbc:mysql://0.0.0.0:3306/holaluz</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
