@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactTables" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
@@ -8,10 +11,10 @@
     <option name="useMaterialFont2" value="true" />
     <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="50" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="59007d41:16501a836ad:-7fff" />
-    <option name="version" value="4.10.0" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
