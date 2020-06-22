@@ -4,9 +4,10 @@
   </component>
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
-    <option name="MAX_CLIPBOARD_CONTENTS" value="15" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="15" />
     <option name="MAX_LOOKUP_WIDTH2" value="1060" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
