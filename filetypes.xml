@@ -19,6 +19,7 @@
       <mapping pattern=".mh-vertical-navigation-lists.scss" type="SCSS" />
       <mapping pattern="orwell-test-invoice" type="XHTML" />
       <mapping pattern="phpspec.yml" type="YAML" />
+      <mapping ext="neon" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
