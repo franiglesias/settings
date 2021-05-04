@@ -3,6 +3,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactTables" value="true" />
     <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -20,7 +21,7 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="userId" value="59007d41:16501a836ad:-7fff" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.0.2" />
     <option name="tabHighlightPosition" value="Bottomless" />
   </component>
 </application>
