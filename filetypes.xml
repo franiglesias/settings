@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="2017-03-07-historia-de-una-reescritura-3-empezar-con-la-vista.md" type="Markdown" />
       <mapping pattern="2016-12-22-el-visitante.md" type="Markdown" />
+      <mapping pattern="2017-03-07-historia-de-una-reescritura-3-empezar-con-la-vista.md" type="Markdown" />
       <mapping pattern="2016-12-22-el-visitante" type="Markdown" />
       <mapping pattern="pre-commit" type="PHP" />
+      <mapping pattern="2017-03-12-historia-de-una-reescritura-4-codigo-toxico" type="PLAIN_TEXT" />
       <mapping pattern="2017-12-16-ejercicio-de-refactor-1" type="PLAIN_TEXT" />
       <mapping pattern="expected" type="PLAIN_TEXT" />
-      <mapping pattern="error" type="PLAIN_TEXT" />
-      <mapping pattern="2017-03-12-historia-de-una-reescritura-4-codigo-toxico" type="PLAIN_TEXT" />
       <mapping pattern="here-your-unit-tests" type="PLAIN_TEXT" />
+      <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
