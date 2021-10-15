@@ -11,6 +11,7 @@
       <mapping pattern="here-your-unit-tests" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping pattern="_mh-articles" type="SCSS" />
