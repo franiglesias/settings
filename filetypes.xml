@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="featue" type="AUTO_DETECTED" />
       <mapping pattern="2016-12-22-el-visitante.md" type="Markdown" />
       <mapping pattern="2017-03-07-historia-de-una-reescritura-3-empezar-con-la-vista.md" type="Markdown" />
       <mapping pattern="2016-12-22-el-visitante" type="Markdown" />
